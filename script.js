@@ -86,3 +86,4 @@ function resetGame() {
   level = 0;
   colorstore = [];
 }
+
